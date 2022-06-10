@@ -1,11 +1,16 @@
 _repo: Friendly-counsels-for-freedmen_68217
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68217-h/images/cover.jpg
 creator:
   author:
     agent_name: Waterbury, Jared Bell
     gutenberg_agent_id: '54658'
     url: http://www.gutenberg.org/2009/agents/54658
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68217#Friendly-counsels-for-freedmen
 gutenberg_issued: '2022-05-31'
 identifiers:
   gutenberg: '68217'
